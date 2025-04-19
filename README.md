@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @lucky-007-programmer
+# 👋 Hi, I’m "LUCKY" a.k.a "HARI OM"
 
 - 👀 I'm passionate about app development, backend web technologies, artificial intelligence, open source contributions, and gaming. 
 - 🌱 Currently advancing my skills in Java, with prior experience in C, C++, HTML, and CSS.  
