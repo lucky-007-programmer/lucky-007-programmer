@@ -75,7 +75,15 @@ GitHub   : https://github.com/lucky-007-programmer
 
 ## ⚡ Quote
 
-> *"Code. Learn. Build. Repeat."*
+> *"public class Developer {
+    public static void main(String[] args) {
+        while (true) {
+            learn();
+            code();
+            improve();
+        }
+    }
+}"*
 
 <div align="center">
 
