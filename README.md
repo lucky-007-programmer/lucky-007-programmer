@@ -75,15 +75,7 @@ GitHub   : https://github.com/lucky-007-programmer
 
 ## ⚡ Quote
 
-> *"public class Developer {
-    public static void main(String[] args) {
-        while (true) {
-            learn();
-            code();
-            improve();
-        }
-    }
-}"*
+> *"404: Limits Not Found."*
 
 <div align="center">
 
